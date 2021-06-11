@@ -1,4 +1,4 @@
-# ChoasGame
+# ChaosGame
 This project is based on this Numberphile video: https://www.youtube.com/watch?v=kbKtFN71Lfs
 
 The game starts with 3 vertices and a random point P on the plot. One of the vertices (suppose V)  is chosen and the *midpoint* of V and P is plotted. 
